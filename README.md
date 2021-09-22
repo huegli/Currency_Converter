@@ -1,1 +1,1 @@
-A small read-me
+A somewhat more meaningful README
